@@ -1,0 +1,14 @@
+{
+  "name": "multifunctional-datepicker",
+  "version": "1.0.3",
+  "description": "> 适用于vue项目的日期选择器组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacky-MYD",
+  "license": "ISC",
+  "__npminstall_done": "Wed Jul 10 2019 16:35:25 GMT+0800 (GMT+08:00)",
+  "_from": "multifunctional-datepicker@1.0.3",
+  "_resolved": "https://registry.npm.taobao.org/multifunctional-datepicker/download/multifunctional-datepicker-1.0.3.tgz"
+}
